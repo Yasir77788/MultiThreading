@@ -1,7 +1,7 @@
 // This program creates a thread by implementing Runnable interface and instantiating an object of type 
 // Thread. Runnable abstracts a unit of executable code. This class implement a single Runnable method 
 // called run(). Inside run() the code that constitutes the thread is defined. The run() method establishes 
-// the entry point for another, concurrent thread of execution within the  program.
+// the entry point for another, concurrent thread of execution within the program.
 
 package multiThreadingPackage;
 

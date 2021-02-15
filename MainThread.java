@@ -1,3 +1,4 @@
+// The main thread which generates the child thread.
 package multiThreadingPackage;
 
 public class MainThread
